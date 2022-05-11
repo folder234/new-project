@@ -1,0 +1,12 @@
+body {
+  color:yellow;
+  background: black;
+}
+h2 {
+  border-bottom: 5px double pink;
+
+}
+.header{
+  width:50%;
+  text-align: center;
+}
